@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about Data Structures and Algorithms.
 
-- 📫 How to reach me **chiragaggarwal5k@gmail.com**
+- 📫 How to reach me **christendennis779@gmail.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
@@ -47,17 +47,3 @@ Here are some ideas to get you started:
       </div>
 </p>
 <br />
-<br />
-<br />
-                                                               
-<div align="center">
-<h1 align="center">Github Stats⚡️</h1>
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChiragAgg5k&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![ChiragAgg5k's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChiragAgg5k&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-<br />
-                  
-<h1 align="center">Holopin Badges 🦖</h1>
-
-[![@chiragagg5k's Holopin board](https://holopin.me/chiragagg5k)](https://holopin.io/@chiragagg5k)
