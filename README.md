@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/wang-xing-667365315/" target="blank">Dennis Wang (王星)</a></h1>
-<h3 align="center">Senior <code>NodeJS</code>/<code>Python</code>/<code>Go</code>/<code>Rust</code> developer</h3>
+<h3 align="center">Senior <code>NodeJS</code>/<code>Python(AI)</code>/<code>Go</code>/<code>Rust</code> developer</h3>
 
 <br />
 
