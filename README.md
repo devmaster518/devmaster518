@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/wang-xing-667365315/" target="blank">DevMaster518</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/wang-xing-667365315/" target="blank">Dennis Wang (王星)</a></h1>
 <h3 align="center">Senior <code>NodeJS</code>/<code>Python</code>/<code>Go</code>/<code>Rust</code> developer</h3>
 
 <br />
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently focusing on `GoLang` and `Rust`.
 
-- 📫 How to reach me **christendennis779@gmail.com**
+- 📫 How to reach me [Dennis Wang](mailto:christendennis779@gmail.com)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
