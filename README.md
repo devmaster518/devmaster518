@@ -24,23 +24,27 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently focusing on `GoLang` and `Rust`.
 
-- 📫 How to reach me [Dennis Wang](mailto:christendennis779@gmail.com)
+- 📫 How to reach me
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
   <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wang-xing-667365315/">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wang-xing-667365315/" title="LinkedIn">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/devmaster518/">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="skype:live:.cid.3592c9df0706eb6c?call">
-      <img src="https://img.icons8.com/doodle/40/000000/skype--v1.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://wa.me/447940728737">
+    <a style="margin-left: 10px;" target="_blank" href="https://wa.me/447940728737" title="Whatsapp">
       <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://devstar-resume-page-v2.vercel.app/" title="Personal Website">
+      <img src="https://img.icons8.com/doodle/40/000000/link--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="mailto:xwang.star214@gmail.com" title="Send Email">
+      <img src="https://img.icons8.com/doodle/40/000000/email--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1u2AFmak5ochRe5QZQMTiqBpAJJSq4wIB/view?usp=drive_link" title="View Resume">
+      <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png">
     </a>
   </div>
 </p>
 <br />
+@<code>devmaster518</code> All rights reserved.
