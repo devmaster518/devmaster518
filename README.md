@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/wang-xing-667365315/" target="blank">Dennis Wang (王星)</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://devstar-resume-page-v2.vercel.app/" target="blank">Dennis Wang (王星)</a></h1>
 <h3 align="center">Senior <code>NodeJS</code>/<code>Python(AI)</code>/<code>Go</code>/<code>Rust</code> developer</h3>
 
 <br />
@@ -34,6 +34,12 @@ Here are some ideas to get you started:
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/devmaster518">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="skype:live:.cid.3592c9df0706eb6c?call">
+      <img src="https://img.icons8.com/doodle/40/000000/skype--v1.png">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://wa.me/447940728737">
+      <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png">
     </a>
   </div>
 </p>
