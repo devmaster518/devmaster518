@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wang-xing-667365315/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/devmaster518">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/devmaster518/">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="skype:live:.cid.3592c9df0706eb6c?call">
