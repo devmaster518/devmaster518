@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake over github" />
+ <img width="1000" src="github-snake.svg" alt="snake over github" />
 </p>
 
 @<code>devmaster518</code> All rights reserved.
