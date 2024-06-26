@@ -48,5 +48,15 @@ Here are some ideas to get you started:
     </a>
   </div>
 </p>
+
 <br />
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=devmaster518&style=for-the-badge&color=orange" alt="devmaster518 review" />
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake over github" />
+</p>
+
 @<code>devmaster518</code> All rights reserved.
