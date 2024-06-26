@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://devstar-resume-page-v2.vercel.app/" target="blank">Dennis Wang (王星)</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://devstar-resume-page-v2.vercel.app/" target="blank">Dennis Wang (王定)</a></h1>
 <h3 align="center">Senior <code>NodeJS</code>/<code>Python(AI)</code>/<code>Go</code>/<code>Rust</code> developer</h3>
 
 <br />
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 </h3>
 <p align="center">
   <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/wang-xing-667365315/" title="LinkedIn">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    <a style="margin-left: 10px;" target="_blank" href="https://t.me/devmaster518/" title="Telegram">
+      <img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://wa.me/447940728737" title="Whatsapp">
       <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png">
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
     <a style="margin-left: 10px;" target="_blank" href="https://devstar-resume-page-v2.vercel.app/" title="Personal Website">
       <img src="https://img.icons8.com/doodle/40/000000/link--v1.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:xwang.star214@gmail.com" title="Send Email">
+    <a style="margin-left: 10px;" target="_blank" href="mailto:devking0727.wang@gmail.com" title="Send Email">
       <img src="https://img.icons8.com/doodle/40/000000/email--v1.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1u2AFmak5ochRe5QZQMTiqBpAJJSq4wIB/view?usp=drive_link" title="View Resume">
+    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1RP9j9cfpteEAlECewSYs7ts2HHfnRNNH/view?usp=drive_link" title="View Resume">
       <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png">
     </a>
   </div>
