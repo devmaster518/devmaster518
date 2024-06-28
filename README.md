@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 </h3>
 <p align="center">
   <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://t.me/devmaster518/" title="Telegram">
+    <!--<a style="margin-left: 10px;" target="_blank" href="https://t.me/devmaster518/" title="Telegram">
       <img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png">
-    </a>
+    </a>-->
     <a style="margin-left: 10px;" target="_blank" href="https://wa.me/447940728737" title="Whatsapp">
       <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png">
     </a>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <a style="margin-left: 10px;" target="_blank" href="mailto:devking0727.wang@gmail.com" title="Send Email">
       <img src="https://img.icons8.com/doodle/40/000000/email--v1.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1LruZw0Bw4T175bMvc_--t5nx69y475q7/view?usp=drive_link" title="View Resume">
+    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1YJfoXdN7DSZfMoLnnaH-6vY9HejNc-Ta/view?usp=drive_link" title="View Resume">
       <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png">
     </a>
   </div>
