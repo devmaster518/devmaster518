@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <a style="margin-left: 10px;" target="_blank" href="mailto:devking0727.wang@gmail.com" title="Send Email">
       <img src="https://img.icons8.com/doodle/40/000000/email--v1.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1YJfoXdN7DSZfMoLnnaH-6vY9HejNc-Ta/view?usp=drive_link" title="View Resume">
+    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1prylnXhzUwD6CGiAJ5n1SV_HSRXF5GqS/view?usp=drive_link" title="View Resume">
       <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png">
     </a>
   </div>
