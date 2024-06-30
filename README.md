@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm <a href="https://devstar-resume-page-v2.vercel.app/" target="blank">Dennis Wang (王定)</a></h1>
-<h3 align="center">Senior <code>NodeJS</code>/<code>Python(AI)</code>/<code>Go</code>/<code>Rust</code> developer</h3>
+<h3 align="center">Senior <code>NodeJS</code>/<code>Python(AI)</code>/<code>Go</code>/<code>R</code> developer</h3>
 
 <br />
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="I work like this!" src="Productive_Working.gif">
+  <img align="right" top="500" height="300" width="400" alt="I work in this manner!" src="Productive_Working.gif">
 </a>
 
-- 🌱 I’m currently focusing on `GoLang` and `Rust`.
+- 🌱 I’m currently focusing on `Pandas` and `R`.
 
 - 📫 How to reach me
 
