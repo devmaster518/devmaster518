@@ -37,13 +37,13 @@ Here are some ideas to get you started:
     <a style="margin-left: 10px;" target="_blank" href="mailto:christendennis779@gmail.com" title="Send Email">
       <img src="https://img.icons8.com/doodle/40/000000/email--v1.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1prylnXhzUwD6CGiAJ5n1SV_HSRXF5GqS/view?usp=drive_link" title="View Resume">
+    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1ffoN5jZbjet7VqXDftBNhNKKHKJFjoFi/view?usp=drive_link" title="View Resume">
       <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://t.me/codeguru827/" title="Telegram">
       <img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://wa.me/15816877831" title="Whatsapp">
+    <a style="margin-left: 10px;" target="_blank" href="https://wa.me/33780871076" title="Whatsapp">
       <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png">
     </a>
   </div>
