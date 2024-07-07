@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm <a href="https://devstar-resume-page-v2.vercel.app/" target="blank">Dennis W.</a></h1>
-<h3 align="center">Senior <code>NodeJS</code>/<code>Python(AI)</code>/<code>Go</code>/<code>R</code> developer</h3>
+<h3 align="center">Senior <code>NodeJS</code>/<code>Go</code>/<code>Pandas</code>/<code>R</code> developer</h3>
 
 <br />
 
