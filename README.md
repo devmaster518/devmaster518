@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://devstar-resume-page-v2.vercel.app/" target="blank">Dennis W.</a></h1>
-<h3 align="center">Senior <code>NodeJS</code>/<code>Go</code>/<code>Pandas</code>/<code>R</code> developer</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://devstar-resume-page-v2.vercel.app/" target="blank">Dennis W. Guru</a></h1>
+<h3 align="center">Senior <code>NodeJS</code>/<code>Go</code>/<code>Pandas</code>/<code>R</code> Developer</h3>
 
 <br />
 
@@ -33,9 +33,6 @@ Here are some ideas to get you started:
   <div align="center"  class="icons-social" style="margin-left: 10px;">
     <a style="margin-left: 10px;" target="_blank" href="https://devstar-resume-page-v2.vercel.app/" title="Personal Website">
       <img src="https://img.icons8.com/doodle/40/000000/link--v1.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:christendennis779@gmail.com" title="Send Email">
-      <img src="https://img.icons8.com/doodle/40/000000/email--v1.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1ffoN5jZbjet7VqXDftBNhNKKHKJFjoFi/view?usp=drive_link" title="View Resume">
       <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png">
