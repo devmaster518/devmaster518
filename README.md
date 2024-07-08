@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <a style="margin-left: 10px;" target="_blank" href="https://devstar-resume-page-v2.vercel.app/" title="Personal Website">
       <img src="https://img.icons8.com/doodle/40/000000/link--v1.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1ffoN5jZbjet7VqXDftBNhNKKHKJFjoFi/view?usp=drive_link" title="View Resume">
+    <a style="margin-left: 10px;" target="_blank" href="https://drive.google.com/file/d/1ANVk1SfIz4ShoHCogi3vd-g8_EFplVem/view?usp=drive_link" title="View Resume">
       <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://t.me/codeguru827/" title="Telegram">
