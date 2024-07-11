@@ -43,6 +43,9 @@ Here are some ideas to get you started:
     <a style="margin-left: 10px;" target="_blank" href="https://wa.me/33780871076" title="Whatsapp">
       <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png">
     </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.google.com/maps?q=Calgary,+Alberta+T2A+0A1,+CA" title="My Location">
+      <img src="https://img.icons8.com/doodle/40/000000/marker--v1.png">
+    </a>
   </div>
 </p>
 
