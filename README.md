@@ -29,10 +29,11 @@ Here are some ideas to get you started:
   <img align="right" top="500" height="300" width="400" alt="I work in this manner!" src="Productive_Working.gif">
 </a>
 
-- **FrontEnd** - `React`, `React Native`, `Angular`, `Ionic`, `Next.js`, `Vue.js`, `TailwindCSS`, `Material UI`
+- **FrontEnd** - `React`, `React Native`, `Angular`, `Ionic`, `Next.js`, `Vue.js`, `TailwindCSS`, `Material UI`, `Electron`
 - **BackEnd** - `Node.js`, `Express`, `NestJS`, `Django`, `Gin`, `Laravel`, `REST APIs`
 - **DBMS** - `MongoDB`, `Mongoose`, `MySQL`, `PostgreSQL`, `Redis`, `Cloud Realtime DBs`, `SQLite`, `Apollo GraphQL`
 - **DevOps** - `Git`, `GitHub`, `BitBucket`, `Linux`, `Docker`, `CI/CD`, `Agile`, `Unit Test`
+- **IaaS/PaaS/BaaS/mBaaS** - `Amazon Web Services`, `Digital Ocean`, `MS Azure`, `Heroku`, `Vercel`, `Render`, `Firebase`
 - **Teamwork** - `Slack`, `MS Teams`, `Jira`, `Asana`, `Figma`, `Google Docs`
 - **Communication** - `Skype`, `Telegram`, `Whatsapp`, `Zoom`, `Google Meet`
 
