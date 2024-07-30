@@ -46,20 +46,20 @@ Here are some ideas to get you started:
 
 <p align="center">
   <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://devstar-resume-page-v2.vercel.app/" title="Personal Website">
-      <img src="https://img.icons8.com/doodle/40/000000/link--v1.png">
+    <a href="https://devstar-resume-page-v2.vercel.app/" target="_blank" title="Personal Website" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/link--v1.png" alt="Personal Website">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://docs.google.com/document/d/1qmlWFQvxh7iSg71ZF5clbCY8D2i576Dm/edit?usp=drive_link&ouid=108510853676302554797&rtpof=true&sd=true" title="View Resume">
-      <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png">
+    <a href="https://docs.google.com/document/d/1qmlWFQvxh7iSg71ZF5clbCY8D2i576Dm/edit?usp=drive_link&ouid=108510853676302554797&rtpof=true&sd=true" target="_blank" title="View Resume" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png" alt="View Resume">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://t.me/codeguru827/" title="Telegram">
-      <img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png">
+    <a href="https://t.me/codeguru827/" target="_blank" title="Telegram" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png" alt="Telegram">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://wa.me/33780871076" title="Whatsapp">
-      <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png">
+    <a href="https://wa.me/33780871076" target="_blank" title="WhatsApp" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png" alt="WhatsApp">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.google.com/maps?q=Calgary,+Alberta+T2A+0A1,+CA" title="My Location">
-      <img src="https://img.icons8.com/doodle/40/000000/marker--v1.png">
+    <a href="https://www.google.com/maps?q=Calgary,+Alberta+T2A+0A1,+CA" target="_blank" title="My Location" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/marker--v1.png" alt="My Location">
     </a>
   </div>
 </p>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake over github" />
+ <img width="1000" src="github-snake.svg" alt="snake over GitHub" />
 </p>
 
 @<code>devmaster518</code> All rights reserved.
