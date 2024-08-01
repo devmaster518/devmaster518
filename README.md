@@ -45,6 +45,9 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmaster518&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaster518&layout=compact&langs_count=8&theme=react" />
   </div>
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmaster518&theme=react&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="GitHub activity graph">
+  </div>
 </div>
 
 ---
