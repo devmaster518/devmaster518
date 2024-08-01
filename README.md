@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 <div align="center" style="flex: 1; flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmaster518&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaster518&layout=compact&langs_count=7&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmaster518&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaster518&layout=compact&langs_count=8&theme=react" />
   </div>
 </div>
 
