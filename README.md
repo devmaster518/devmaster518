@@ -21,7 +21,32 @@ Here are some ideas to get you started:
 </h1>
 <h3 align="center">
   Senior <code>JS</code>/<code>React</code>/<code>Angular</code>/<code>Go</code> Developer
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
 </h3>
+
+<p align="center">
+  <div align="center" class="icons-social" style="margin-left: 10px;">
+    <a href="https://devstar-resume-page-v2.vercel.app/" target="_blank" title="Personal Website" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/link--v1.png" alt="Personal Website">
+    </a>
+    <a href="https://docs.google.com/document/d/1qmlWFQvxh7iSg71ZF5clbCY8D2i576Dm/edit?usp=drive_link&ouid=108510853676302554797&rtpof=true&sd=true" target="_blank" title="View Resume" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png" alt="View Resume">
+    </a>
+    <a href="https://t.me/codeguru827/" target="_blank" title="Telegram" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png" alt="Telegram">
+    </a>
+    <a href="https://wa.me/33780871076" target="_blank" title="WhatsApp" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png" alt="WhatsApp">
+    </a>
+    <a href="https://www.google.com/maps?q=Calgary,+Alberta+T2A+0A1,+CA" target="_blank" title="My Location" style="margin-left: 10px;">
+      <img src="https://img.icons8.com/doodle/40/000000/marker--v1.png" alt="My Location">
+    </a>
+  </div>
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=devmaster518&style=for-the-badge&color=orange" alt="devmaster518 review" />
+</div>
 
 <br />
 
@@ -54,33 +79,7 @@ Here are some ideas to get you started:
 
 - Focusing on `Pandas` and `R` for **Quantitative Trading** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
 
-- Contact Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
-
-<p align="center">
-  <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a href="https://devstar-resume-page-v2.vercel.app/" target="_blank" title="Personal Website" style="margin-left: 10px;">
-      <img src="https://img.icons8.com/doodle/40/000000/link--v1.png" alt="Personal Website">
-    </a>
-    <a href="https://docs.google.com/document/d/1qmlWFQvxh7iSg71ZF5clbCY8D2i576Dm/edit?usp=drive_link&ouid=108510853676302554797&rtpof=true&sd=true" target="_blank" title="View Resume" style="margin-left: 10px;">
-      <img src="https://img.icons8.com/doodle/40/000000/pdf--v1.png" alt="View Resume">
-    </a>
-    <a href="https://t.me/codeguru827/" target="_blank" title="Telegram" style="margin-left: 10px;">
-      <img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png" alt="Telegram">
-    </a>
-    <a href="https://wa.me/33780871076" target="_blank" title="WhatsApp" style="margin-left: 10px;">
-      <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png" alt="WhatsApp">
-    </a>
-    <a href="https://www.google.com/maps?q=Calgary,+Alberta+T2A+0A1,+CA" target="_blank" title="My Location" style="margin-left: 10px;">
-      <img src="https://img.icons8.com/doodle/40/000000/marker--v1.png" alt="My Location">
-    </a>
-  </div>
-</p>
-
 <br />
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=devmaster518&style=for-the-badge&color=orange" alt="devmaster518 review" />
-</div>
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake over GitHub" />
