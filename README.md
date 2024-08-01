@@ -40,6 +40,15 @@ Here are some ideas to get you started:
 
 ---
 
+<div align="center" style="flex: 1; flex-direction: column; width: 100%">
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmaster518&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaster518&layout=compact&langs_count=7&theme=react"/>
+  </div>
+</div>
+
+---
+
 - Focusing on `Pandas` and `R` for **Quantitative Trading** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
 
 - Contact Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
