@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 </a>
 
 - **Languages** - `JavaScript`, `TypeScript`, `Python`, `GoLang`, `PHP`, `Java`, `Ruby`, `C++`, `Solidity`, `R`
-- **FrontEnd** - `React`, `React Native`, `Angular`, `Ionic`, `Next.js`, `Vue.js`, `Tailwind CSS`, `Material UI`, `Electron`
-- **BackEnd** - `Node.js`, `Express`, `NestJS`, `Django`, `Gin`, `Laravel`, `REST APIs`
+- **Frontend** - `React`, `React Native`, `Angular`, `Ionic`, `Next.js`, `Vue.js`, `Tailwind CSS`, `Material UI`, `Electron`
+- **Backend** - `Node.js`, `Express`, `NestJS`, `Django`, `Gin`, `Laravel`, `REST APIs`
 - **DBMS** - `MongoDB`, `Mongoose`, `MySQL`, `PostgreSQL`, `Redis`, `Cloud Realtime DBs`, `SQLite`, `Apollo GraphQL`
 - **DevOps** - `Git`, `GitHub`, `BitBucket`, `Linux`, `Docker`, `CI/CD`, `Agile`, `Unit Test`
 - **IaaS/PaaS/BaaS/mBaaS** - `Amazon Web Services`, `Digital Ocean`, `MS Azure`, `Heroku`, `Vercel`, `Render`, `Firebase`
