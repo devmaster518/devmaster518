@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   Hi
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="30" height="30" />
-  I'm <a href="https://devstar-resume-page-v2.vercel.app/" target="blank">Dennis W.</a>
+  I'm <a href="https://dennisw.vercel.app/" target="blank">Dennis W.</a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />
 </h1>
 <h3 align="center">
