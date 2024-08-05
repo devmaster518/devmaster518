@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a href="https://devstar-resume-page-v2.vercel.app/" target="_blank" title="Personal Website" style="margin-left: 10px;">
+    <a href="https://dennisw.vercel.app/" target="_blank" title="Personal Website" style="margin-left: 10px;">
       <img src="https://img.icons8.com/doodle/40/000000/link--v1.png" alt="Personal Website">
     </a>
     <a href="https://docs.google.com/document/d/1qmlWFQvxh7iSg71ZF5clbCY8D2i576Dm/edit?usp=drive_link&ouid=108510853676302554797&rtpof=true&sd=true" target="_blank" title="View Resume" style="margin-left: 10px;">
