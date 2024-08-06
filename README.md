@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />
 </h1>
 <h3 align="center">
-  Senior <code>JS</code>/<code>React</code>/<code>Angular</code>/<code>Go</code> Developer
+  Senior <code>JS</code>/<code>ReactN</code>/<code>Angular</code>/<code>Go</code> Developer
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
 </h3>
 
